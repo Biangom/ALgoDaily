@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c96696ad-cc11-4e76-85e3-bcbd25309443" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectId" id="1cP03Oag7srYRfcPQkAmLXPNb18" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Application.asdasd">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="project_intelij" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="asdasd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="asdasd" />
+      <module name="project_intelij" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.asdasd" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c96696ad-cc11-4e76-85e3-bcbd25309443" name="Default Changelist" comment="" />
+      <created>1590414720077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590414720077</updated>
+      <workItem from="1590414722983" duration="3933000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1130" y="375" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1590416236321">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1130" y="375" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590416236321" />
+    <state x="-1155" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1590417937208">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1155" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590417937208" />
+    <state x="-1415" y="275" key="#org.jetbrains.debugger.memory.view.InstancesWindow" timestamp="1590416316742">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1415" y="275" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590416316742" />
+    <state x="-1045" y="273" width="632" height="494" key="#xdebugger.XInspectDialog" timestamp="1590416179969">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1045" y="273" width="632" height="494" key="#xdebugger.XInspectDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590416179969" />
+    <state x="-1205" y="222" key="#xdebugger.evaluate" timestamp="1590416442883">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1205" y="222" key="#xdebugger.evaluate/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590416442883" />
+    <state x="-1828" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1590416599744">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590416599744" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1590418525480">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590418525480" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1590418525480">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590418525480" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1590418525480">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590418525480" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1590418525480">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590418525480" />
+    <state width="1877" height="383" key="GridCell.Tab.1.bottom" timestamp="1590418341512">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="383" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590418341512" />
+    <state width="1877" height="383" key="GridCell.Tab.1.center" timestamp="1590418341512">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="383" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590418341512" />
+    <state width="1877" height="383" key="GridCell.Tab.1.left" timestamp="1590418341512">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="383" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590418341512" />
+    <state width="1877" height="383" key="GridCell.Tab.1.right" timestamp="1590418341512">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="383" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590418341512" />
+    <state width="1877" height="348" key="GridCell.Tab.4.bottom" timestamp="1590416447091">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590416447091" />
+    <state width="1877" height="348" key="GridCell.Tab.4.center" timestamp="1590416447091">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590416447091" />
+    <state width="1877" height="348" key="GridCell.Tab.4.left" timestamp="1590416447091">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590416447091" />
+    <state width="1877" height="348" key="GridCell.Tab.4.right" timestamp="1590416447091">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590416447091" />
+    <state width="1877" height="348" key="GridCell.Tab.5.bottom" timestamp="1590416447772">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.5.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590416447772" />
+    <state width="1877" height="348" key="GridCell.Tab.5.center" timestamp="1590416447772">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.5.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590416447772" />
+    <state width="1877" height="348" key="GridCell.Tab.5.left" timestamp="1590416447771">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.5.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590416447771" />
+    <state width="1877" height="348" key="GridCell.Tab.5.right" timestamp="1590416447772">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.5.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590416447772" />
+    <state x="-1280" y="179" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590415509488">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1280" y="179" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590415509488" />
+    <state x="-1400" y="256" width="880" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1590418320349">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1400" y="256" width="880" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590418320349" />
+    <state x="-1094" y="386" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1590417333432">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1094" y="386" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590417333432" />
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590416563124">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590416563124" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="map" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
